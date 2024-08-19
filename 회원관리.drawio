@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="페이지-1" id="1RcC5qNRcjHD-i6j9Skm">
+    <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sz_00_6w1vbuykZ_h46c-1" value="개체(ENTITY)&lt;div&gt;주요 관심사는 해결하려는 마인드&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz_00_6w1vbuykZ_h46c-2" value="속성(ATTRBUTE)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz_00_6w1vbuykZ_h46c-3" value="관계(RELATION)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz_00_6w1vbuykZ_h46c-4" value="ERD(Entily Realtional Diagram, 개체 관계도)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="34" y="10" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz_00_6w1vbuykZ_h46c-5" value="현실 세계에 존재하는 개념, 엄무에서 주요 관심사항의 핵심 키워드&lt;div&gt;예) 고객, 회원, 학생...&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz_00_6w1vbuykZ_h46c-7" value="개체와 개체의 연관성, 관련성&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;예)&amp;nbsp; 고객 개체와 상품 개체가 있다면, 고객은 상품을 구입하는 관계&amp;nbsp;&lt;/div&gt;&lt;div&gt;반대로 상품은 고객에게 판매되는데 이때 1:1, 1N, ,NM 의 관계와 필수와 선택사항 여부를 결정하여야함&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="370" width="570" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz_00_6w1vbuykZ_h46c-8" value="개체의 특성, 성격&lt;div&gt;에) 고객, 이름, 사는곳, 연락처&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="230" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz_00_6w1vbuykZ_h46c-9" value="사용법&lt;div&gt;1.&lt;/div&gt;&lt;div&gt;2.&lt;/div&gt;&lt;div&gt;3.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="670" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
